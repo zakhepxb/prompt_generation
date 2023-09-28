@@ -1,1 +1,2 @@
-# prompt_generation
+# Stable Diffusion - Image to Prompts
+
